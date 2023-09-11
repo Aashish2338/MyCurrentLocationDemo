@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\layout_note_dialog.xml.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\layout\\note_dialog.xml"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\layout_note_list_row.xml.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\layout\\note_list_row.xml"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add_white_24dp.xml.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corner.xml.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_white_24dp.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_mic.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_mic.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_mic.xml.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_mic.xml"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_mic.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_mic.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_white_24dp.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pie_chart.xml.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\layout\\activity_pie_chart.xml"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_mic.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_mic.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vc_rec_bg.xml.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\drawable\\vc_rec_bg.xml"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_mic.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_mic.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_white_24dp.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_mic.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_mic.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_white_24dp.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_note_book.xml.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\layout\\activity_note_book.xml"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add_white_24dp.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_voice_recognization.xml.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\layout\\activity_voice_recognization.xml"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_white_24dp.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_mic.png.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_mic.png"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Aashish_Vishwakarma\\LearningApp\\MyCurrentLocation\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    }
+]
